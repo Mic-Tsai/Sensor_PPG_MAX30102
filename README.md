@@ -29,7 +29,7 @@ Any question or need technical support:
 
 ## 
 ![*Sensor_PPG_MAX30102*](https://github.com/Mic-Tsai/Sensor_PPG_MAX30102/blob/master/res/Sensor_PPG-MAX30102-1.png)
-![*Sensor_PPG_MAX30102*](https://github.com/Mic-Tsai/Sensor_PPG_MAX30102/blob/master/res/Sensor_PPG-MAX30102-2.png)
+![*Sensor_PPG_MAX30102*](https://github.com/Mic-Tsai/Sensor_PPG_MAX30102/blob/master/res/Sensor_PPG-MAX30102-3.png)
 
 ## 
 
