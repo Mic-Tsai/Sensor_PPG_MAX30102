@@ -2,9 +2,9 @@
 
 Arduino based sensor learning project, The feature combines the heart rate calculation and real-time update, plotting the PPG curve on display.
 
-	- Bias Cancellation | Store raw data in time, when new data coming that bias level will calculate as average.
+ - Bias Cancellation | Store raw data in time, when new data coming that bias level will calculate as average.
 
-	- Heart Rate Detect | Setting upper/lower threshold once your PPG light reflection signal witch cross threshold, condition expressions will output the BPM results.
+ - Heart Rate Detect | Setting upper/lower threshold once your PPG light reflection signal witch cross threshold, condition expressions will output the BPM results.
 
 
 
@@ -27,7 +27,8 @@ Any question or need technical support:
 * Contact me via mail (xbcke12345@gmail.com)
 
 ## 
-![*Sensor_PPG_MAX30102*]()
+![*Sensor_PPG_MAX30102*](https://github.com/Mic-Tsai/Sensor_PPG_MAX30102/blob/master/res/Sensor_PPG-MAX30102-1.png)
+![*Sensor_PPG_MAX30102*](https://github.com/Mic-Tsai/Sensor_PPG_MAX30102/blob/master/res/Sensor_PPG-MAX30102-2.png)
 
 ## 
 
