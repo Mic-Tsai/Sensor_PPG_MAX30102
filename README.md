@@ -1,6 +1,6 @@
 # Sensor_PPG_MAX30102 | Heart Rate Sensor
 
-Arduino based sensor learning project, The feature combines the heart rate calculation and real-time update, plotting the PPG curve on display.
+Arduino based sensor learning project. The feature combines the heart rate calculation and real-time update, plotting the PPG curve on display.
 
  - Bias Cancellation | Store raw data in time, when new data coming that bias level will calculate as average.
 
