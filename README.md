@@ -6,6 +6,13 @@ Arduino based sensor learning project. The feature combines the heart rate calcu
 
  - Heart Rate Detect | Setting upper/lower threshold once your PPG light reflection value cross u/l threshold, condition expressions will output the BPM results.
 
+```
+Arduino tool kit, and require the following material:
+- MCU: ESP8266 
+- Display: SD1306_128x64_OLED
+- PPG Sensor: MAX30102
+```
+
 ##
 
 For coding example, you need the following library:
@@ -15,14 +22,6 @@ For coding example, you need the following library:
 
 ## 
 
-```
-Arduino tool kit, and require the following material:
-- MCU: ESP8266 
-- Display: SD1306_128x64_OLED
-- PPG Sensor: MAX30102
-```
-
-
 Any question or need technical support:
 
 * Contact me via mail (xbcke12345@gmail.com)
@@ -30,7 +29,6 @@ Any question or need technical support:
 ## 
 ![*Sensor_PPG_MAX30102*](https://github.com/Mic-Tsai/Sensor_PPG_MAX30102/blob/master/res/Sensor_PPG-MAX30102-1.png)
 ![*Sensor_PPG_MAX30102*](https://github.com/Mic-Tsai/Sensor_PPG_MAX30102/blob/master/res/Sensor_PPG-MAX30102-3.png)
-
 ## 
 
 
