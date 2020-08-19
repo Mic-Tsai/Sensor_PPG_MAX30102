@@ -4,7 +4,7 @@ Arduino based sensor learning project. The feature combines the heart rate calcu
 
  - Bias Cancellation | Store raw data in time, when new data coming that bias level will calculate as average.
 
- - Heart Rate Detect | Setting upper/lower threshold once your PPG light reflection signal witch cross threshold, condition expressions will output the BPM results.
+ - Heart Rate Detect | Setting upper/lower threshold once your PPG light reflection value cross u/l threshold, condition expressions will output the BPM results.
 
 ##
 
