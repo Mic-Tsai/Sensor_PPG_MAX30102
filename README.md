@@ -1,3 +1,4 @@
+![*Sensor_PPG_MAX30102*](https://github.com/Mic-Tsai/Sensor_PPG_MAX30102/blob/master/res/Sensor_PPG-MAX30102-1.png)
 # Sensor_PPG_MAX30102 | Heart Rate Sensor
 
 Arduino based sensor learning project. The feature combines the heart rate calculation and real-time update, plotting the PPG curve on display.
