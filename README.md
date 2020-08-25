@@ -27,6 +27,10 @@ For coding example, you need the following library:
 Any question or need technical support:
 
 * Contact me via mail (xbcke12345@gmail.com)
+* If this project helping. Please generously support =)
+
+   [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 
 ## 
 ![*Sensor_PPG_MAX30102*](https://github.com/Mic-Tsai/Sensor_PPG_MAX30102/blob/master/res/Sensor_PPG-MAX30102-1.png)
