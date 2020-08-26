@@ -1,4 +1,4 @@
-# Sensor_PPG_MAX30102 | Heart Rate Sensor
+## Sensor_PPG_MAX30102 | Heart Rate Sensor
 
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
 
